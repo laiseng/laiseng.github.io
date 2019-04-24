@@ -1,0 +1,27 @@
+{
+  "name": "laiseng.github.io",
+  "version": "0.0.1",
+  "description": "laiseng homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laiseng/laiseng.github.io.git"
+  },
+  "keywords": [
+    "laiseng",
+    "homepage",
+    "fullstack"
+  ],
+  "author": "laiseng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laiseng/laiseng.github.io/issues"
+  },
+  "homepage": "https://github.com/laiseng/laiseng.github.io#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
